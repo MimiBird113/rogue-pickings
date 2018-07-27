@@ -5,7 +5,12 @@ html {
 	max-width: 1200px;
 	margin: 0 auto;
 	font-size: 1em;
-	font-family: Montserrat, Helvetica, Arial, sans-serif;
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+}
+
+@font-face{
+	font-family: 'Wisdom Script';
+	src: url('../fonts/wisdom-script.otf') format('opentype');
 }
 
 /*module 1 */
@@ -152,7 +157,7 @@ html {
 }
 
 #module-4 span {
-	font-family: "Wisdom Script", script;
+	font-family: 'Wisdom Script', script;
 	text-transform: lowercase;
 	color: #77a466;
 	font-size: 1.3em;
