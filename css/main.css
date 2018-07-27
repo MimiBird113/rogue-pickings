@@ -5,7 +5,12 @@ html {
 	max-width: 1200px;
 	margin: 0 auto;
 	font-size: 1em;
-	font-family: Montserrat, Helvetica, Arial, sans-serif;
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+}
+
+@font-face{
+	font-family: 'Wisdom Script';
+	src: url('../fonts/wisdom-script.otf') format('opentype');
 }
 
 /*module 1 */
